@@ -9,3 +9,4 @@ because I want to make it profitable. (Seriously, maybe when BTC go back to $200
 I hacked the react storm diagram repo to build this project. By parsing the serialized graph, I can generate python codes easily!
 
 ### how UI interface looks like
+![image](https://github.com/d8tltanc/Bitfiniex-Binance-drag-trading-bot/blob/master/image/WechatIMG1.jpeg)
